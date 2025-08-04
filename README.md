@@ -2,7 +2,7 @@
 ## Overview
 This project provides an AI-powered solution for validating HIPAA compliance rules in EDI healthcare transactions. It leverages machine learning and conversational AI to help organizations interpret and apply complex regulatory requirements efficiently.
 ## Key Features
-###✅ ML Model for Compliance Validation
+✅ ML Model for Compliance Validation
 Fine-tuned or purpose-built model trained on HIPAA documentation to validate healthcare transactions against compliance rules.
 ###	💬 Interactive Chatbot
 AI chatbot designed for deep conversations to help business and IT teams understand and apply HIPAA regulations.
