@@ -10,3 +10,5 @@ AI chatbot designed for deep conversations to help business and IT teams underst
 Deployed on a major cloud provider for scalability, security, and integration with existing healthcare IT systems.
 ###	🔄 Extensible Architecture
 Designed to support additional regulatory frameworks beyond HIPAA, such as CMS, FHIR, or state-specific healthcare laws.
+## Motivation
+HIPAA compliance is mandatory for covered entities handling electronic healthcare transactions. With over 500 pages of complex rules, organizations often rely on a limited number of commercial tools and struggle with interpretation. This project aims to democratize access to compliance validation through open, intelligent, and extensible tools.
